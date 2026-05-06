@@ -2,7 +2,7 @@
 
 # Daniil Sadovnikov
 
-**Senior backend engineer · Go · 3+ years · High load**
+**Senior backend engineer · Go · 5+ years · High load**
 
 *I turn messy financial and data-heavy domains into fast, reliable services that survive real traffic.*
 
